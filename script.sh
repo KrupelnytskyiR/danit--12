@@ -1,1 +1,3 @@
-this is my script
+#this is my script as well
+
+echo 42
