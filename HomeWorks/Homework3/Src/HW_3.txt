@@ -44,7 +44,7 @@
 
  Додати прапорець виконуваного (х) файлу:
 
- chmod +x filename
+ chmod u+x filename
   
   4. Різниця між apt і dpkg
 
